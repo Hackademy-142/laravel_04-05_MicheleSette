@@ -12,8 +12,9 @@
         </div>
       </header>
 
-      {{-- form contatto --}}
+      <h2 class="text-center mt-5 text-black-50  ">Compila il form e sarai ricontattato</h2>
 
+      {{-- form contatto --}}
       <section class="container my-5 ">
         <div class="row justify-content-center ">
             <div class="col-10 col-md-6 bg">
@@ -40,4 +41,6 @@
         </div>
       </section>
 
+
+    <x-footer/>
 </x-layout>
